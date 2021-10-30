@@ -1,4 +1,4 @@
-# Example of publishing to ROSnodes with rosbridge with out library
+# Example of publishing to ROSnodes with rosbridge without library
 
 
 ## starting the websocket connecting with rosbridge
