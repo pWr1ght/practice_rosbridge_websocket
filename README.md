@@ -27,6 +27,7 @@ rosrun beginner_tutorials listener.py
 ### run server
 
 npm install
+
 node server.js
 
 Should expect to see a simple stream of data. Client will do real long polling at a later time.
